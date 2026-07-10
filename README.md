@@ -18,7 +18,7 @@ Repositorio dedicado al desarrollo, práctica y seguimiento del curso **Python N
 * **Pensamiento Sistémico:** Comprender la lógica elemental de la programación.
 * **Resolución de Problemas:** Desarrollar algoritmos eficientes para problemáticas determinadas.
 * **Lenguaje Técnico:** Adquirir vocabulario propio del ámbito de desarrollo de software.
-* **Consistencia:** Aplicar lo aprendido mediante la resolución práctica de más de 90 videos y desafíos.
+* **Consistencia:** Aplicar lo aprendido mediante la resolución práctica de más de 90 videos y desafíos..
 
 ---
 
