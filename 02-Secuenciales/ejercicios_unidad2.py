@@ -3,7 +3,8 @@
 # =======================================================
 # n1 = int(input("Ingrese primer número: "))
 # n2 = int(input("Ingrese segundo número: "))
-# print("Suma:", n1 + n2)
+# resultado = n1 + n2
+# print(f"La suma entre {n1} + {n2} dá {resultado}")
 
 
 
