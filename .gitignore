@@ -1,1 +1,2 @@
-02-Secuenciales/ejercicios/practica.py
+# Ignorar cualquier archivo practica.py en cualquier subcarpeta
+**/practica.py
