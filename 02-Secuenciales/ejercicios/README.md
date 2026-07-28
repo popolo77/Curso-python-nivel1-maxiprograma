@@ -1,10 +1,5 @@
 # 🏋️‍♂️ Ejercicios Resueltos - Bloque 2: Secuenciales
 
-Acá tenés el código formateado de los tres ejercicios (2, 3 y 4) listo para copiar y reemplazar dentro de tu archivo **`02-Secuenciales/ejercicios/README.md`**:
-
-```markdown
-# 🏋️‍♂️ Ejercicios Resueltos - Bloque 2: Secuenciales
-
 ## 2. Elevar al cubo
 
 *Consigna:* Hacer un programa para solicitar por teclado un número y luego devolver su valor elevado al cubo.
