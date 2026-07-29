@@ -163,13 +163,7 @@ En la parte inferior de tu pantalla de Visual Studio Code (en el bloque de tres 
 ```python
 ...
 print(f"El porcentaje...")
-``` <-- Falta cerrar el bloque de código Python
 
-``` <-- Línea 186/187 extra descolgada
-
-```
-
-Tienes tres comillas (`````) pegadas una arriba de la otra sin cerrar correctamente el bloque anterior.
 
 ---
 
@@ -198,4 +192,5 @@ pct_descubierto = (mt_c_d * 100) / mt_c_t
 print(f"El porcentaje de metros cuadrados cubiertos es {pct_cubierto:.2f}% y el porcentaje de descubierto es {pct_descubierto:.2f}%")
 
 ```
+
 ---
