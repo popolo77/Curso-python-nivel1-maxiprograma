@@ -157,16 +157,6 @@ print(f"Su promedio final es: {promedio}")
 
 ---
 
-En la parte inferior de tu pantalla de Visual Studio Code (en el bloque de tres comillas donde cierra el código Python) tenés este error de sintaxis:
-
-```markdown
-```python
-...
-print(f"El porcentaje...")
-
-
----
-
 ## 7. Porcentaje de metros cubiertos y descubiertos
 
 *Consigna:* Hacer un programa para ingresar por teclado los metros cuadrados totales de un predio y los metros cuadrados cubiertos; luego calcular y mostrar por pantalla el porcentaje de metros cuadrados cubiertos y el porcentaje de metros cuadrados descubiertos.
