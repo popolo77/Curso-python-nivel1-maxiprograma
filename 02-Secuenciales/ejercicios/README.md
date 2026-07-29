@@ -184,3 +184,28 @@ print(f"El porcentaje de metros cuadrados cubiertos es {pct_cubierto:.2f}% y el 
 ```
 
 ---
+
+## 8. Descuento en delivery
+
+*Consigna:* Una importante cadena de delivery cuenta con una promoción por tiempo limitado en la que otorga un 15 % de descuento sobre el total del valor de la compra realizada. Hacer un programa para solicitar el monto total y que el mismo calcule y emita por pantalla el total a cobrar con el descuento aplicado.
+
+```mermaid
+graph TD
+    A([INICIO]) --> B[/Ingresar monto_total/]
+    B --> C["desc = (monto_total * 15) / 100<br>total_cobrar = monto_total - desc"]
+    C --> D[\Mostrar total_cobrar\]
+    D --> E([FIN])
+
+```
+
+```python
+monto_total = float(input("Ingrese el monto de su compra: "))
+
+desc = (monto_total * 15) / 100
+total_cobrar = monto_total - desc
+
+print(f"El total a cobrar con el 15% de descuento es: {total_cobrar}")
+
+```
+
+---
