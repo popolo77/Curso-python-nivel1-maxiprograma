@@ -156,3 +156,46 @@ print(f"Su promedio final es: {promedio}")
 ```
 
 ---
+
+En la parte inferior de tu pantalla de Visual Studio Code (en el bloque de tres comillas donde cierra el código Python) tenés este error de sintaxis:
+
+```markdown
+```python
+...
+print(f"El porcentaje...")
+``` <-- Falta cerrar el bloque de código Python
+
+``` <-- Línea 186/187 extra descolgada
+
+```
+
+Tienes tres comillas (`````) pegadas una arriba de la otra sin cerrar correctamente el bloque anterior.
+
+---
+
+## 7. Porcentaje de metros cubiertos y descubiertos
+
+*Consigna:* Hacer un programa para ingresar por teclado los metros cuadrados totales de un predio y los metros cuadrados cubiertos; luego calcular y mostrar por pantalla el porcentaje de metros cuadrados cubiertos y el porcentaje de metros cuadrados descubiertos.
+
+```mermaid
+graph TD
+    A([INICIO]) --> B[/Ingresar mt_c_t, mt_c_c/]
+    B --> C["mt_c_d = mt_c_t - mt_c_c<br>pct_cubierto = (mt_c_c * 100) / mt_c_t<br>pct_descubierto = (mt_c_d * 100) / mt_c_t"]
+    C --> D[\Mostrar pct_cubierto, pct_descubierto\]
+    D --> E([FIN])
+
+```
+
+```python
+mt_c_t = int(input("Ingrese la cantidad de metros cuadrados totales: "))
+mt_c_c = int(input("Ingrese la cantidad de metros cuadrados cubiertos: "))
+
+mt_c_d = mt_c_t - mt_c_c
+
+pct_cubierto = (mt_c_c * 100) / mt_c_t
+pct_descubierto = (mt_c_d * 100) / mt_c_t
+
+print(f"El porcentaje de metros cuadrados cubiertos es {pct_cubierto:.2f}% y el porcentaje de descubierto es {pct_descubierto:.2f}%")
+
+```
+---
