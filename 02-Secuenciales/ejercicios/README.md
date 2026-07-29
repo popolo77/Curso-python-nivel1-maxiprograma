@@ -126,12 +126,24 @@ sueldo_total = sueldo_fijo + comision
 
 print(f"El sueldo total a cobrar es: ${sueldo_total}")
 
+
+
+```
+
+## 6. Promedio de tres notas
+
+*Consigna:* Hacer un programa para ingresar por teclado las tres notas de exámenes de un alumno y luego calcule y emita por pantalla el promedio final.
+
+```mermaid
 graph TD
     A([INICIO]) --> B[/Ingresar n1, n2, n3/]
     B --> C[promedio = n1 + n2 + n3 / 3]
     C --> D[\Mostrar promedio\]
     D --> E([FIN])
-Python
+
+```
+
+```python
 n1 = float(input("Ingrese su primera nota: "))
 n2 = float(input("Ingrese su segunda nota: "))
 n3 = float(input("Ingrese su tercera nota: "))
@@ -140,3 +152,10 @@ promedio = (n1 + n2 + n3) / 3
 
 print(f"Su promedio final es: {promedio}")
 
+```
+
+```
+
+---
+
+```
