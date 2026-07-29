@@ -126,7 +126,7 @@ sueldo_total = sueldo_fijo + comision
 
 print(f"El sueldo total a cobrar es: ${sueldo_total}")
 
-
+---
 
 ```
 
@@ -154,8 +154,4 @@ print(f"Su promedio final es: {promedio}")
 
 ```
 
-```
-
 ---
-
-```
