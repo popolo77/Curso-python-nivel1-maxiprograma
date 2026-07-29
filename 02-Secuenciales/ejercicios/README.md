@@ -138,7 +138,7 @@ print(f"El sueldo total a cobrar es: ${sueldo_total}")
 ```mermaid
 graph TD
     A([INICIO]) --> B[/Ingresar n1, n2, n3/]
-    B --> C[promedio = (n1 + n2 + n3) / 3]
+    B --> C["promedio = (n1 + n2 + n3) / 3"]
     C --> D[\Mostrar promedio\]
     D --> E([FIN])
 
