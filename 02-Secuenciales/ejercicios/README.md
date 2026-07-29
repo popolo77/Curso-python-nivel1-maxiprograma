@@ -125,16 +125,3 @@ comision = total_facturado * 0.05
 sueldo_total = sueldo_fijo + comision
 
 print(f"El sueldo total a cobrar es: ${sueldo_total}")
-
-```
-
-```mermaid
-graph TD
-    A([INICIO]) --> B[i = 0]
-    B --> C{¿i < 5?}
-    C -- SÍ --> D[\Mostrar i\]
-    D --> E[i = i + 1]
-    E --> C
-    C -- NO --> F([FIN])
-
-```
