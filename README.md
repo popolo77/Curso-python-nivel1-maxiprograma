@@ -31,8 +31,6 @@ Repositorio dedicado al aprendizaje práctico de la lógica de programación, pe
 
 ### 🚀 Bloque 2: Estructuras Secuenciales
 
-### 🚀 Bloque 2: Estructuras Secuenciales
-
 - [x] ***02 - Ejercicios Secuenciales*** 📄 [[Apuntes](02-Secuenciales/README.md)]
   - [x] Ejercicio 1: Suma de dos números 📄 [[Ejercicios](02-Secuenciales/README.md#1-suma-de-dos-números)]
   - [x] Ejercicio 2: Número al cubo 📄 [[Ejercicios](02-Secuenciales/README.md#2-número-al-cubo)]
