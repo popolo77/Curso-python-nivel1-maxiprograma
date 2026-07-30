@@ -1,4 +1,3 @@
-```markdown
 # 3. Estructuras Condicionales
 
 En este módulo aprenderemos a controlar el flujo de ejecución de nuestros programas mediante la **toma de decisiones**. Un programa ya no se ejecutará únicamente de forma lineal de arriba hacia abajo, sino que podrá tomar caminos diferentes según se cumplan o no determinadas condiciones.
@@ -194,7 +193,5 @@ if compra_valida:
 
 2. **Olvidar los dos puntos `:`:** Cada instrucción `if`, `elif`, `else` o `case` debe finalizar obligatoriamente con `:`.
 3. **Mala indentación:** Todo el bloque de código dependiente de la condición debe mantener el mismo nivel de sangría hacia la derecha.
-
-```
 
 ```
