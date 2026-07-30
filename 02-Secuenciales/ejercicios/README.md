@@ -209,3 +209,30 @@ print(f"El total a cobrar con el 15% de descuento es: {total_cobrar}")
 ```
 
 ---
+
+## 9. Porcentaje de mujeres y hombres
+
+*Consigna:* Una universidad desea conocer los porcentajes de mujeres y hombres en las carreras de ciencias exactas. Se solicita un programa para cargar la cantidad de mujeres y la cantidad de hombres y que el mismo calcule y emita por pantalla los porcentajes correspondientes.
+
+```mermaid
+graph TD
+    A([INICIO]) --> B[/Ingresar cant_mujeres, cant_hombres/]
+    B --> C["total = cant_mujeres + cant_hombres<br>pct_mujeres = (cant_mujeres * 100) / total<br>pct_hombres = (cant_hombres * 100) / total"]
+    C --> D[\Mostrar pct_mujeres, pct_hombres\]
+    D --> E([FIN])
+
+```
+
+```python
+cant_mujeres = int(input("Ingrese la cantidad de mujeres: "))
+cant_hombres = int(input("Ingrese la cantidad de hombres: "))
+
+total_alumnos = cant_mujeres + cant_hombres
+
+pct_mujeres = (cant_mujeres * 100) / total_alumnos
+pct_hombres = (cant_hombres * 100) / total_alumnos
+
+print(f"El porcentaje de mujeres es: {pct_mujeres:.2f}%")
+print(f"El porcentaje de hombres es: {pct_hombres:.2f}%")
+
+```
