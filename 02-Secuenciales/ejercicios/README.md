@@ -236,3 +236,34 @@ print(f"El porcentaje de mujeres es: {pct_mujeres:.2f}%")
 print(f"El porcentaje de hombres es: {pct_hombres:.2f}%")
 
 ```
+
+---
+
+## 10. Cuatro operaciones básicas
+
+*Consigna:* Hacer un programa que permita ingresar por teclado dos números y que luego muestre por pantalla la suma, la resta, la multiplicación y la división de dichos números. Se deben mostrar cuatro resultados en pantalla. Los números deben ser solicitados una única vez.
+
+```mermaid
+graph TD
+    A([INICIO]) --> B[/Ingresar n1, n2/]
+    B --> C["suma = n1 + n2<br>resta = n1 - n2<br>mult = n1 * n2<br>div = n1 / n2"]
+    C --> D[\Mostrar suma, resta, mult, div\]
+    D --> E([FIN])
+
+```
+
+```python
+n1 = float(input("Ingrese el primer número: "))
+n2 = float(input("Ingrese el segundo número: "))
+
+suma = n1 + n2
+resta = n1 - n2
+mult = n1 * n2
+div = n1 / n2
+
+print(f"Suma: {suma}")
+print(f"Resta: {resta}")
+print(f"Multiplicación: {mult}")
+print(f"División: {div}")
+
+```
