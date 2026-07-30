@@ -32,16 +32,16 @@ Repositorio dedicado al aprendizaje práctico de la lógica de programación, pe
 ### 🚀 Bloque 2: Estructuras Secuenciales
 
 - [x] ***02 - Ejercicios Secuenciales*** 📄 [[Apuntes](02-Secuenciales/README.md)]
-  - [x] Ejercicio 1: Suma de dos números 📄 [[Ejercicios](02-Secuenciales/README.md#1-suma-de-dos-números)]
-  - [x] Ejercicio 2: Número al cubo 📄 [[Ejercicios](02-Secuenciales/README.md#2-número-al-cubo)]
-  - [x] Ejercicio 3: Cálculo de edad 📄 [[Ejercicios](02-Secuenciales/README.md#3-cálculo-de-edad)]
-  - [x] Ejercicio 4: Tiempo de viaje entre ciudades 📄 [[Ejercicios](02-Secuenciales/README.md#4-tiempo-de-viaje-entre-ciudades)]
-  - [x] Ejercicio 5: Sueldo total con comisión 📄 [[Ejercicios](02-Secuenciales/README.md#5-sueldo-total-con-comisión)]
-  - [x] Ejercicio 6: Promedio de tres notas 📄 [[Ejercicios](02-Secuenciales/README.md#6-promedio-de-tres-notas)]
-  - [x] Ejercicio 7: Porcentaje de metros cubiertos y descubiertos 📄 [[Ejercicios](02-Secuenciales/README.md#7-porcentaje-de-metros-cubiertos-y-descubiertos)]
-  - [x] Ejercicio 8: Descuento en delivery 📄 [[Ejercicios](02-Secuenciales/README.md#8-descuento-en-delivery)]
-  - [x] Ejercicio 9: Porcentaje de mujeres y hombres 📄 [[Ejercicios](02-Secuenciales/README.md#9-porcentaje-de-mujeres-y-hombres)]
-  - [x] Ejercicio 10: Cuatro operaciones básicas 📄 [[Ejercicios](02-Secuenciales/README.md#10-cuatro-operaciones-básicas)]
+  - [x] Ejercicio 1: Suma de dos números 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#1-suma-de-dos-números)]
+  - [x] Ejercicio 2: Número al cubo 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#2-número-al-cubo)]
+  - [x] Ejercicio 3: Cálculo de edad 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#3-cálculo-de-edad)]
+  - [x] Ejercicio 4: Tiempo de viaje entre ciudades 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#4-tiempo-de-viaje-entre-ciudades)]
+  - [x] Ejercicio 5: Sueldo total con comisión 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#5-sueldo-total-con-comisión)]
+  - [x] Ejercicio 6: Promedio de tres notas 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#6-promedio-de-tres-notas)]
+  - [x] Ejercicio 7: Porcentaje de metros cubiertos y descubiertos 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#7-porcentaje-de-metros-cubiertos-y-descubiertos)]
+  - [x] Ejercicio 8: Descuento en delivery 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#8-descuento-en-delivery)]
+  - [x] Ejercicio 9: Porcentaje de mujeres y hombres 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#9-porcentaje-de-mujeres-y-hombres)]
+  - [x] Ejercicio 10: Cuatro operaciones básicas 📄 [[Ejercicios](02-Secuenciales/ejercicios/README.md#10-cuatro-operaciones-básicas)]
 ---
 
 ### 🔀 Bloque 3: Estructuras Condicionales
