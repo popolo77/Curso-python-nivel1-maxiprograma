@@ -29,17 +29,19 @@ Repositorio dedicado al aprendizaje práctico de la lógica de programación, pe
 
 ---
 
-### 🔢 Bloque 2: Estructuras Secuenciales
-- [ ] **12 - Bienvenida e Introducción a Secuenciales** 📄 *[Apuntes]*
-- [ ] **13 - Concepto de Diagramas e Diagramador de Flujo** 📄 *[Apuntes]*
-- [ ] **14 - Explicación con Diagramas (Secuenciales)** 📄 *[Apuntes]*
-- [ ] **15 - Concepto de Algoritmo y Variables** 📄 *[Apuntes]*
-- [ ] **16 - Tipos de Datos e Identificadores** 📄 *[Apuntes]*
-- [ ] **17 - Operadores Aritméticos y Asignación** 📄 *[Apuntes]*
-- [ ] **18 - Entrada, Proceso y Salida (`input` y `print`)** 📄 *[Apuntes]*
-- [ ] **19 - Ejemplo en Python: Diagrama a Código** 📄 *[Apuntes]*
-- [ ] **20 - Solución a Errores Comunes de Tipo de Dato** 📄 *[Apuntes]*
-- [ ] **21 - Laboratorio:** Práctica de Estructuras Secuenciales (Ejercicios 1 a 10) 🏋️‍♂️ *[Ejercicios]*
+### 🚀 Bloque 2: Estructuras Secuenciales
+
+- [x] ***02 - Ejercicios Secuenciales*** 📄 [[Apuntes](02-Secuenciales/README.md)]
+  - [x] Ejercicio 1: Suma de dos números
+  - [x] Ejercicio 2: Número al cubo
+  - [x] Ejercicio 3: Cálculo de edad
+  - [x] Ejercicio 4: Tiempo de viaje entre ciudades
+  - [x] Ejercicio 5: Sueldo total con comisión
+  - [x] Ejercicio 6: Promedio de tres notas
+  - [x] Ejercicio 7: Porcentaje de metros cubiertos y descubiertos
+  - [x] Ejercicio 8: Descuento en delivery
+  - [x] Ejercicio 9: Porcentaje de mujeres y hombres
+  - [x] Ejercicio 10: Cuatro operaciones básicas
 
 ---
 
