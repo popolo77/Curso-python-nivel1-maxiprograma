@@ -194,17 +194,3 @@ if compra_valida:
 2. **Olvidar los dos puntos `:`:** Cada instrucción `if`, `elif`, `else` o `case` debe finalizar obligatoriamente con `:`.
 3. **Mala indentación:** Todo el bloque de código dependiente de la condición debe mantener el mismo nivel de sangría hacia la derecha.
 
-```mermaid
-classDiagram
-    class Producto {
-        -String codigo
-        -double precio
-        +getPrecio() double
-        +aplicarDescuento(double porc) void
-    }
-    class ProductoElectronico {
-        -int garantiaMeses
-        +calcularGarantia() void
-    }
-    Producto <|-- ProductoElectronico
-```
